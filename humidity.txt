@@ -1,0 +1,1 @@
+Temperature is 24.0C & Humidity is 20.0%
